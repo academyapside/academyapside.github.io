@@ -3,7 +3,7 @@
 This project is designed to check basic accessibility errors in web pages.
 The goal is to navigate the different themes and find accessibility errors.
 
-[https://simferrer.github.io/accessibility/](https://simferrer.github.io/accessibility/)
+[https://academyapside.github.io](https://academyapside.github.io/)
 
 ## Features
 
@@ -13,11 +13,11 @@ The goal is to navigate the different themes and find accessibility errors.
 
 This project includes various themes that can be accessed through the following links:
 
-- [Color](https://simferrer.github.io/accessibility/color/)
-- [Component](https://simferrer.github.io/accessibility/component/)
-- [Form](https://simferrer.github.io/accessibility/form/)
-- [Non-Text](https://simferrer.github.io/accessibility/non-text/)
-- [Structure](https://simferrer.github.io/accessibility/structure/)
+- [Color](https://academyapside.github.io/color/)
+- [Component](https://academyapside.github.io/component/)
+- [Form](https://academyapside.github.io/form/)
+- [Non-Text](https://academyapside.github.io/non-text/)
+- [Structure](https://academyapside.github.io/structure/)
 
 ## Usage
 
